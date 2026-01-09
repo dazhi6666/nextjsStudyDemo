@@ -1,2 +1,1 @@
-# nextjsStudyDemo
-for me to study nextjs
+## Next.js App Router Course - Starter
